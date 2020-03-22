@@ -1,0 +1,18 @@
+{
+  "name": "fullstack-api",
+  "version": "1.0.0",
+  "description": "API creada utilizando Express y MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Alexis Dominguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
